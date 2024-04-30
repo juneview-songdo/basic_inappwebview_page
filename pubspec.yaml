@@ -1,7 +1,7 @@
 name: basic_inappwebview_page
-description: "Description here"
+description: "Basic InAppWebView Page"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/basic_inappwebview_page
 
 version: 1.0.0+1
 
@@ -14,7 +14,7 @@ dependencies:
   device_preview:
   flutter:
     sdk: flutter
-  flutter_inappwebview: 6.0.0
+  flutter_inappwebview: #@add
   flutter_screenutil:
   flutter_svg:
   flutter_zoom_drawer:
