@@ -11,6 +11,10 @@
     ```bash
     june add basic_inappwebview_page
     ```
+3. add this line in `web/index.html` inside the `<head>` tag.
+    ```html
+    <script type="application/javascript" src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js" defer></script>
+    ```
 3. start the project by entering the following command.
     ```bash
     flutter run lib/app/_/_/interaction/view.blueprint/component/basic_inappwebview_page/_/view.dart -d chrome
