@@ -56,7 +56,7 @@ class AppbarViewState extends State<AppbarView>
             ),
             IconButton(
               icon: Icon(
-                Icons.info_outline,
+                Icons.lock,
                 color: Colors.green,
               ),
               onPressed: () {},
