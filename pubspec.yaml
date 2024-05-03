@@ -3,7 +3,7 @@ description: "Basic InAppWebView Page"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/basic_inappwebview_page
 
-version: 1.0.5
+version: 1.0.6
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
